@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the tagged release."
+title: "Synthetic ABO Relational Privacy Corpus"
+type: dataset
+version: "1.0.0"
+date-released: 2026-11-09
+license: CC-BY-4.0
+url: "https://github.com/ANEMONE-ops/synthetic-abo-relational-privacy/releases/tag/v1.0.0"
+authors:
+  - given-names: Zhe
+    family-names: Yang
+  - given-names: Jiazhe
+    family-names: Wu
+  - given-names: Yu
+    family-names: Wang
+  - given-names: Chen
+    family-names: Yan
+keywords:
+  - relational privacy
+  - query compilation
+  - synthetic dataset
+  - prompt injection
+  - ABO
